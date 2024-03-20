@@ -1,0 +1,43 @@
+A) Pesquise e responda:
+
+1) O que é algoritmo?
+    
+Um algoritmo é um conjunto finito de passos a serem seguidos para resolver um problema ou realizar uma tarefa específica.
+
+2) O que é um programa de computador?
+    
+Programa de computador é um conjunto de instruções ou algoritmos que são executados por um computador para realizar uma determinada tarefa ou resolver um problema.
+
+3) O que é uma variável?
+
+Variável é um espaço de armazenamento utilizado para guardar valores que podem mudar durante a execução de um programa.
+
+4) O que é o Portugol Studio?
+    
+Portugol Studio é um ambiente de desenvolvimento integrado (IDE) projetado para auxiliar no aprendizado de programação através da linguagem Portugol, uma linguagem pseudocódigo usada para ensinar os conceitos fundamentais de programação.
+
+5) O que faz o comando escreva do Portugol?
+    
+O comando escreva é usado para exibir informações na tela durante a execução do programa. Ele permite que o programa envie saídas para o usuário.
+
+6) O que faz o comando leia do Portugol?
+    
+O comando leia é usado para capturar entradas do usuário durante a execução do programa. Ele permite que o programa receba valores fornecidos pelo usuário.
+
+7) Defina o que é tipo de variável.
+    
+Tipo de variável define os valores que uma variável pode armazenar e as operações que podem ser realizadas com os valores.
+
+8) Explique o que são os tipos de variáveis do Portugol:
+        
+	a. Cadeia: Cadeia é uma sequência ordenada de caracteres (símbolos) escolhidos a partir*de um conjunto pré-determinado.
+        b. Inteiro: Inteiro é uma variável que contém qualquer número que pertença ao conjunto dos números inteiros. Podem ser positivos, negativos ou nulos.
+        c. Real: Real armazena um número real como uma fração decimal possivelmente infinita.
+        d. Lógico: Lógico contém um tipo de dado, usado em operações lógicas, que possui somente dois valores, que são consideradas pelo Portugol como verdadeiro e falso.
+        e. Caracter: Caracter contém uma informação composta de apenas um carácter alfanumérico ou especial. Exemplos de caracteres são letras, números, pontuações e etc.
+
+9) Dê exemplos:
+
+        a. Entrada de um algoritmo: Capturar o nome de uma pessoa.
+        b. Processamento de um algoritmo: Calcular a média de notas.
+        c. Saída de um algoritmo: Exibir uma mensagem "Olá mundo".
